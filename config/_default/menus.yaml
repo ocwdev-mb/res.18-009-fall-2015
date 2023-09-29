@@ -1,0 +1,57 @@
+leftnav:
+- identifier: a9916d12-f128-bdd2-a11b-02e75f786ba1
+  name: Video Series Overview
+  pageRef: /pages/video-series-overview
+  weight: 10
+- identifier: 75be5942-86fc-6182-0f93-147523356fe2
+  name: Differential Equations and Linear Algebra
+  pageRef: /pages/differential-equations-and-linear-algebra/
+  weight: 20
+- identifier: 6fde8549-1ede-a094-eb7d-37b45091bd8c
+  name: Introduction
+  pageRef: /pages/differential-equations-and-linear-algebra/introduction
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 30
+- identifier: 0f5c00c5-3cd1-aaf2-cb7b-c1d5deaba2a9
+  name: First Order Equations
+  pageRef: /pages/differential-equations-and-linear-algebra/first-order-equations
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 40
+- identifier: 6038bc50-02ab-0da0-b5f1-5d8b8de5fc0a
+  name: Second Order Equations
+  pageRef: /pages/differential-equations-and-linear-algebra/second-order-equations
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 50
+- identifier: 84dd94ec-46fe-8e59-9980-5e44f82c636f
+  name: Graphical and Numerical Methods
+  pageRef: /pages/differential-equations-and-linear-algebra/graphical-and-numerical-methods
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 60
+- identifier: f15feb7b-d1d8-1045-af8d-068192ccd849
+  name: Vector Spaces and Subspaces
+  pageRef: /pages/differential-equations-and-linear-algebra/vector-spaces-and-subspaces
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 70
+- identifier: eea80322-d845-c02f-5a60-79ba180150bd
+  name: Eigenvalues and Eigenvectors
+  pageRef: /pages/differential-equations-and-linear-algebra/eigenvalues-and-eigenvectors
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 80
+- identifier: 2cc6caac-d406-7f42-fa9d-1b6519945fc2
+  name: Applied Mathematics and ATA
+  pageRef: /pages/differential-equations-and-linear-algebra/applied-mathematics-and-ata
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 90
+- identifier: 078d9ec2-bb30-63bb-722a-fd2a85326f18
+  name: Fourier and Laplace Transforms
+  pageRef: /pages/differential-equations-and-linear-algebra/fourier-and-laplace-transforms
+  parent: 75be5942-86fc-6182-0f93-147523356fe2
+  weight: 100
+- identifier: 8ee92c27-f02b-fd86-d262-9f4ce23755ef
+  name: Solving ODEs in MATLAB
+  pageRef: /video_galleries/solving-odes-in-matlab
+  weight: 110
+- identifier: 21b85de3-c357-1e20-1666-84eaa773decb
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 120
